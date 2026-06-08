@@ -1,7 +1,5 @@
 # Decode Labs Internship Projects
 
-Hi! 👋
-
 This repository contains the projects that I completed during my internship.
 
 ## Project 1 - Student Dashboard
@@ -60,8 +58,4 @@ DELETE /students/:id
 * Status codes
 * CRUD operations
 
----
 
-These projects were built as part of my internship learning journey, and helped me understand both frontend and backend development fundamentals.
-
-Thank you for visiting my repository! 😊
